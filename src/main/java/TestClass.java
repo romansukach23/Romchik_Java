@@ -7,7 +7,7 @@ public class TestClass extends Init {
     public void fuckTest() {
         driver.get("https://www.google.com/");
 
-
+        System.out.println("haha");
     }
 
 
