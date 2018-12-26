@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6df35a5-742e-4986-becf-121a6d1ae47f" name="Default Changelist" comment="1st commit">
-      <change afterPath="$PROJECT_DIR$/Test Results - ApiTests_fieldValueValidationTest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CollectionObjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Romchik_Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/R-K_testers.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ApiTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ApiTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Init.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Init.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestClass.java" afterDir="false" />
-    </list>
+    <list default="true" id="b6df35a5-742e-4986-becf-121a6d1ae47f" name="Default Changelist" comment="1st commit" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -208,9 +200,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545830964168" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545831158127" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/Boiii" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -393,7 +385,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/event_status_schema.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/R-K_testers.iml">
+    <entry file="file://$PROJECT_DIR$/Romchik_Java.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
