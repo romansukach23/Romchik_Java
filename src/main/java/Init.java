@@ -7,7 +7,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class Init {
     public WebDriver driver;
-    String LOBaseURL = "https://hov-uat-lo01.productmadness.com/admin";
 
     @BeforeClass
     public static void setupClass() {
@@ -18,7 +17,7 @@ public class Init {
     public void setupTest() {
         driver = new ChromeDriver();
         driver.manage().window().maximize();
-}
+    }
 
     @After
     public void teardown() {
@@ -26,6 +25,5 @@ public class Init {
             driver.quit();
         }
     }
-
 
 }
