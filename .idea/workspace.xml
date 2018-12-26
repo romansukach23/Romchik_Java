@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="b6df35a5-742e-4986-becf-121a6d1ae47f" name="Default Changelist" comment="1st commit" />
     <ignored path="$PROJECT_DIR$/out/" />
+=======
+    <list default="true" id="4bb115aa-0d90-4dc8-94bb-b3efe21a4ab2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Romchik_Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TestClass.java" afterDir="false" />
+    </list>
+>>>>>>> 9fa2d137d264ef752e37a4d85e13c7bea34cfaaa
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,6 +17,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" userTempatePath="" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -47,11 +55,21 @@
                 <marker date="1545829590496" expanded="true" signature="2110:2277" ph="..." />
                 <marker date="1545829590496" expanded="true" signature="2111:2275" ph="..." />
               </folding>
+=======
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+>>>>>>> 9fa2d137d264ef752e37a4d85e13c7bea34cfaaa
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/main/java/CollectionObjects.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
@@ -59,12 +77,19 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+=======
+        <entry file="file://$PROJECT_DIR$/src/main/java/TestClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+>>>>>>> 9fa2d137d264ef752e37a4d85e13c7bea34cfaaa
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+<<<<<<< HEAD
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -72,12 +97,15 @@
       </list>
     </option>
   </component>
+=======
+>>>>>>> 9fa2d137d264ef752e37a4d85e13c7bea34cfaaa
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/main/java/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/Example.java" />
         <option value="$PROJECT_DIR$/src/main/java/ApiTests.java" />
@@ -89,6 +117,9 @@
         <option value="$PROJECT_DIR$/src/main/java/CollectionObjects.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/ApiTests.java" />
+=======
+        <option value="$PROJECT_DIR$/src/main/java/TestClass.java" />
+>>>>>>> 9fa2d137d264ef752e37a4d85e13c7bea34cfaaa
       </list>
     </option>
   </component>
@@ -99,6 +130,7 @@
       </MavenImportingSettings>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="MavenProjectNavigator">
     <treeState>
       <expand>
@@ -123,16 +155,28 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
+=======
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2085" />
+    <option name="y" value="-38" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+>>>>>>> 9fa2d137d264ef752e37a4d85e13c7bea34cfaaa
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+=======
+      <pane id="Scope" />
+>>>>>>> 9fa2d137d264ef752e37a4d85e13c7bea34cfaaa
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
+<<<<<<< HEAD
               <item name="Romchik_Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Romchik_Java" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -144,23 +188,47 @@
             <path>
               <item name="Romchik_Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Romchik_Java" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="R-K_testers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="R-K_testers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="R-K_testers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="R-K_testers" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="R-K_testers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="R-K_testers" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 9fa2d137d264ef752e37a4d85e13c7bea34cfaaa
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
+<<<<<<< HEAD
               <item name="Romchik_Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Romchik_Java" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="R-K_testers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="R-K_testers" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 9fa2d137d264ef752e37a4d85e13c7bea34cfaaa
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
+<<<<<<< HEAD
               <item name="Romchik_Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Romchik_Java" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="R-K_testers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="R-K_testers" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 9fa2d137d264ef752e37a4d85e13c7bea34cfaaa
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
             <path>
               <item name="Romchik_Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Romchik_Java" type="462c0819:PsiDirectoryNode" />
@@ -191,15 +259,21 @@
               <item name="target" type="462c0819:PsiDirectoryNode" />
               <item name="generated-sources" type="462c0819:PsiDirectoryNode" />
             </path>
+=======
+>>>>>>> 9fa2d137d264ef752e37a4d85e13c7bea34cfaaa
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="Scope" />
+=======
+>>>>>>> 9fa2d137d264ef752e37a4d85e13c7bea34cfaaa
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545831158127" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
     <property name="last_opened_file_path" value="C:/Boiii" />
@@ -213,6 +287,10 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545217141046" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> 9fa2d137d264ef752e37a4d85e13c7bea34cfaaa
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -226,6 +304,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="JUnit.ApiTests.fieldValueValidationTest">
     <configuration name="ApiTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Romchik_Java" />
@@ -285,11 +364,14 @@
       </list>
     </recent_temporary>
   </component>
+=======
+>>>>>>> 9fa2d137d264ef752e37a4d85e13c7bea34cfaaa
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="b6df35a5-742e-4986-becf-121a6d1ae47f" name="Default Changelist" comment="" />
       <created>1544701048941</created>
       <option name="number" value="Default" />
@@ -351,10 +433,38 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32997987" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32997987" />
+=======
+      <changelist id="4bb115aa-0d90-4dc8-94bb-b3efe21a4ab2" name="Default Changelist" comment="" />
+      <created>1545217077360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545217077360</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1913" y="-365" width="2062" height="1126" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24975026" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+>>>>>>> 9fa2d137d264ef752e37a4d85e13c7bea34cfaaa
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32997987" />
@@ -485,10 +595,35 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+=======
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+>>>>>>> 9fa2d137d264ef752e37a4d85e13c7bea34cfaaa
         </state>
       </provider>
     </entry>
   </component>
+<<<<<<< HEAD
   <component name="masterDetails">
     <states>
       <state key="ArtifactsStructureConfigurable.UI">
@@ -565,4 +700,6 @@
       </state>
     </states>
   </component>
+=======
+>>>>>>> 9fa2d137d264ef752e37a4d85e13c7bea34cfaaa
 </project>
